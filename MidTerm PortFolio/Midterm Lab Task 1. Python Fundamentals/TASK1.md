@@ -14,7 +14,7 @@ SOURCE OF CODE
     print(f"Email:\t\t\t {email}")
     print(f"University:\t\t {university}")
 
-
+OUTPUT:
 <img width="325" height="152" alt="image" src="https://github.com/user-attachments/assets/d98420d7-b369-47e6-b3f6-714d263ff673" />
 
 
@@ -56,7 +56,7 @@ SOURCE OF CODE
     print(f"Job Title : %s" % job_title)
     print(f"Department : %s" % department)
 
-
+OUTPUT:
 <img width="601" height="286" alt="image" src="https://github.com/user-attachments/assets/dfd11aa5-5816-43ea-a9e3-e1062993bbd3" />
 
 
@@ -81,7 +81,7 @@ SOURCE OF CODE
     print(f"Member: {member_id}.")
     print(f"Return date: {return_date}.")
 
-
+OUTPUT:
 <img width="379" height="279" alt="image" src="https://github.com/user-attachments/assets/dcea6546-6fa3-4c40-a7a4-071a3d9606bd" />
 
 
@@ -111,5 +111,6 @@ SOURCE OF CODE
         print("Invalid Input")
 
 
-
+OUTPUT:
   <img width="336" height="435" alt="image" src="https://github.com/user-attachments/assets/64837472-125b-4a49-8156-316df3596f11" />
+
